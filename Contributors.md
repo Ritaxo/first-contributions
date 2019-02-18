@@ -14,6 +14,7 @@
 - [Sule Alp] (https://github.com/sulealp)
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Pankti Mehta](https://github.com/Pankti96)
+- [Amrita dhaliwal](https://github.com/ritaxo)
 - [Nick Wilkie]
 - [Rob Kos](https://github.com/robkos442)
 - [Supriya](https://github.com/SupriyaSupu)
